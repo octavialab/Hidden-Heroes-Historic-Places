@@ -3,7 +3,7 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 ## Live links (replace with your own)
-- Leaflet Map https://sosnogorsk.github.io/Hidden-Heroes-Historic-Places-Story-Map/#2
+- Leaflet Map https://octavialab.github.io/Hidden-Heroes-Historic-Places/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1njZFEEviLqMdnW5VCSZ61K26UETnlkf6x-m986EXuSk/edit#gid=0
 
 ## Create Your Own
